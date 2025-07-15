@@ -1,9 +1,0 @@
-
-{
-  "Servers": [
-    {
-      "Version": "mdm-byod",
-      "BaseURL": "https://nexxusholdings.hexnodemdm.com/userenroll/"
-    }
-  ]
-}
